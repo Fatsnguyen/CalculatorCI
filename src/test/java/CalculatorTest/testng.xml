@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="CalculatorTestSuite">
+<test name="CalculatorTests">
+<groups>
+<run>
+<include name="Calculator"/>
+</run>
+</groups>
+<classes>
+<class name="CalculatorTest.CalculatorTest"/>
+</classes>
+</test>
+    
+</suite>
